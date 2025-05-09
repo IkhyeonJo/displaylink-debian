@@ -1,9 +1,9 @@
----------------------------------------------------------------
+
 git clone https://github.com/AdnanHodzic/displaylink-debian.git
 cd displaylink-debian
 sudo ./displaylink-debian.sh
 sudo reboot
----------------------------------------------------------------
+
 
 # displaylink-debian
 
